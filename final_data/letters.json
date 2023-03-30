@@ -6998,5 +6998,264 @@
         [
             "DOUBLE-STRUCK"
         ]
+    ],
+    "\u00b5": [
+        "\u03bc",
+        []
+    ],
+    "\u2107": [
+        "E",
+        []
+    ],
+    "\u210e": [
+        "h",
+        []
+    ],
+    "\u210f": [
+        "hbar",
+        []
+    ],
+    "\u2126": [
+        "omega",
+        []
+    ],
+    "\u2127": [
+        "ohm",
+        []
+    ],
+    "\u212b": [
+        "A",
+        [
+            "RING"
+        ]
+    ],
+    "\u2102": [
+        "C",
+        [
+            "DOUBLE-STRUCK"
+        ]
+    ],
+    "\u210d": [
+        "H",
+        [
+            "DOUBLE-STRUCK"
+        ]
+    ],
+    "\u2115": [
+        "N",
+        [
+            "DOUBLE-STRUCK"
+        ]
+    ],
+    "\u2119": [
+        "P",
+        [
+            "DOUBLE-STRUCK"
+        ]
+    ],
+    "\u211a": [
+        "Q",
+        [
+            "DOUBLE-STRUCK"
+        ]
+    ],
+    "\u211d": [
+        "R",
+        [
+            "DOUBLE-STRUCK"
+        ]
+    ],
+    "\u2124": [
+        "Z",
+        [
+            "DOUBLE-STRUCK"
+        ]
+    ],
+    "\u213c": [
+        "pi",
+        [
+            "DOUBLE-STRUCK"
+        ]
+    ],
+    "\u213d": [
+        "gamma",
+        [
+            "DOUBLE-STRUCK"
+        ]
+    ],
+    "\u213e": [
+        "gamma",
+        [
+            "DOUBLE-STRUCK"
+        ]
+    ],
+    "\u213f": [
+        "Pi",
+        []
+    ],
+    "\u2145": [
+        "D",
+        [
+            "DOUBLE-STRUCK",
+            "ITALIC"
+        ]
+    ],
+    "\u2146": [
+        "d",
+        [
+            "DOUBLE-STRUCK",
+            "ITALIC"
+        ]
+    ],
+    "\u2147": [
+        "e",
+        [
+            "DOUBLE-STRUCK",
+            "ITALIC"
+        ]
+    ],
+    "\u2148": [
+        "i",
+        [
+            "DOUBLE-STRUCK",
+            "ITALIC"
+        ]
+    ],
+    "\u2149": [
+        "j",
+        [
+            "DOUBLE-STRUCK",
+            "ITALIC"
+        ]
+    ],
+    "\u210a": [
+        "g",
+        [
+            "SCRIPT"
+        ]
+    ],
+    "\u210b": [
+        "H",
+        [
+            "SCRIPT"
+        ]
+    ],
+    "\u2110": [
+        "I",
+        [
+            "SCRIPT"
+        ]
+    ],
+    "\u2112": [
+        "L",
+        [
+            "SCRIPT"
+        ]
+    ],
+    "\u2113": [
+        "l",
+        [
+            "SCRIPT"
+        ]
+    ],
+    "\u211b": [
+        "R",
+        [
+            "SCRIPT"
+        ]
+    ],
+    "\u212c": [
+        "B",
+        [
+            "SCRIPT"
+        ]
+    ],
+    "\u212f": [
+        "e",
+        [
+            "SCRIPT"
+        ]
+    ],
+    "\u2130": [
+        "E",
+        [
+            "SCRIPT"
+        ]
+    ],
+    "\u2131": [
+        "F",
+        [
+            "SCRIPT"
+        ]
+    ],
+    "\u2133": [
+        "M",
+        [
+            "SCRIPT"
+        ]
+    ],
+    "\u2134": [
+        "o",
+        [
+            "SCRIPT"
+        ]
+    ],
+    "\u210c": [
+        "H",
+        [
+            "BLACK-LETTER"
+        ]
+    ],
+    "\u2111": [
+        "I",
+        [
+            "BLACK-LETTER"
+        ]
+    ],
+    "\u211c": [
+        "R",
+        [
+            "BLACK-LETTER"
+        ]
+    ],
+    "\u2128": [
+        "Z",
+        [
+            "BLACK-LETTER"
+        ]
+    ],
+    "\u212d": [
+        "C",
+        [
+            "BLACK-LETTER"
+        ]
+    ],
+    "\u2135": [
+        "alef",
+        []
+    ],
+    "\u2136": [
+        "bet",
+        []
+    ],
+    "\u2137": [
+        "gimel",
+        []
+    ],
+    "\u2138": [
+        "dalet",
+        []
+    ],
+    "\u221e": [
+        "infinity",
+        []
+    ],
+    "\u2205": [
+        "emptyset",
+        []
+    ],
+    "\u29b0": [
+        "emptyset",
+        []
     ]
 }
