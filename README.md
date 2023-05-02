@@ -53,13 +53,15 @@ For example, this is the entry in `final_data/symbols.json` for `𝒚`, "MATHEMA
 ],
 ```
 
-There are five files:
+There are seven files:
 
 * `greek.json` - mapping Greek letters to their English names, e.g. `α` to `alpha`.
-* `letters.json` - mapping mathematical letters to their standard equivalents, with annotatoins.
+* `letters.json` - mapping mathematical letters to their standard equivalents, with annotations.
 * `subscripts.json` - mapping superscript characters to their standard equivalents.
 * `superscripts.json` - mapping subscript characters to their standard equivalents.
 * `symbols.json` - mapping all sorts of mathematical symbols to common symbols, names, or sub-expressions. Some symbols are mapped to a string of the form `not NAME` - you might have to do some processing to interpret these correctly, instead of just substituting the mapped string into the expression being parsed.
+* `punctuation.json` - mapping punctuation characters to symbols. This mapping could be combined with the one in `symbols.json`.
+* `brackets.json` - mapping grouping characters (parentheses, square brackets and curly braces) to their standard equivalents.
 
 The mappings must be applied as part of the tokenisation step when parsing a mathematical expression.
 
@@ -73,5 +75,10 @@ There were many decisions to make in producing the mapping of characters.
 I omitted most symbols relating to operations that are very unlikely to be used in an undergraduate maths course.
 
 The function names for mappings were sometimes chosen arbitrarily - there might be standard names for these in some computer algebra systems.
+
+If you have a character that is not dealt with by any of the mapping files or by the advice in the notebook, then you can:
+
+* add it to one of the mapping files, if appropriate
+* [create an issue here](https://github.com/numbas/unicode-math-normalization/issues) to tell me about it, and I'll work out how to deal with it.
 
 If you use these mappings, please tell me!
